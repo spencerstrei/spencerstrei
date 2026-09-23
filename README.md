@@ -39,4 +39,8 @@ At Microsoft I build internal AI and automation for finance operations: which pr
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/strei) · [spencerstrei.com](https://spencerstrei.com/) · [spencer@spencerstrei.com](mailto:spencer@spencerstrei.com)
+**Email** [spencer@spencerstrei.com](mailto:spencer@spencerstrei.com)
+
+**LinkedIn** [linkedin.com/in/strei](https://linkedin.com/in/strei)
+
+**Site** [spencerstrei.com](https://spencerstrei.com)
