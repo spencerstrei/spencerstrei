@@ -37,8 +37,6 @@ At Microsoft I build internal AI and automation for finance operations: which pr
 
 - [spencerstrei/fuerza](https://github.com/spencerstrei/fuerza) — public GitHub page for [Fuerza](https://fuerza.spencerstrei.com/)
 
-## Let’s talk
-
-Hiring for product, applied AI, or agents on real workflows — start here.
+## Contact
 
 [LinkedIn](https://linkedin.com/in/strei) · [spencerstrei.com](https://spencerstrei.com/) · [spencer@spencerstrei.com](mailto:spencer@spencerstrei.com)
