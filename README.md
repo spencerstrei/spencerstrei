@@ -35,7 +35,7 @@ At Microsoft I build internal AI and automation for finance operations: which pr
 
 ## Selected public work
 
-- [spencerstrei/fuerza](https://github.com/spencerstrei/fuerza) — public GitHub page for [Fuerza](https://fuerza.spencerstrei.com/)
+- [Fuerza](https://fuerza.spencerstrei.com/) — workout log and AI coach on the App Store
 
 ## Contact
 
